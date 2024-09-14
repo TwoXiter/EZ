@@ -1,5 +1,4 @@
-local Theme = "Maggix"
-local KeySys = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoXiter/KeySystem/main/Themes/".. Theme.. ".lua"))()
+local KeySys = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoXiter/KeySystem/main/Themes/Maggix.lua"))()
 
 KeySys.Main({
   HubName = "Zyne Hub",
