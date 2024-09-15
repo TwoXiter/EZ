@@ -1,4 +1,4 @@
-local KeySys = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoXiter/KeySystem/main/Themes/Maggix.lua"))()
+local KeySys = loadstring(game:HttpGet("https://rentry.co/5b6c8wbm/raw"))()
 
 KeySys.Main({
   HubName = "Zyne Hub",
